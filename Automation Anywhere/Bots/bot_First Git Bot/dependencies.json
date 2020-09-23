@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\First Git Bot","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\First Git Bot","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Second Git Bot"]}
